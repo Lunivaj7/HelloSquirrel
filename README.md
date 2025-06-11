@@ -33,9 +33,7 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 
-<img src="https://imgur.com/a/1fyL410" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
-<img src='https://imgur.com/a/1fyL410 ' title='Video Demo' width='' alt='Video Demo' />
-Link: https://imgur.com/a/1fyL410 
+![](AND101-Project-1.gif)
 
 GIF created with **Screen to Gif and Imgur**
 
