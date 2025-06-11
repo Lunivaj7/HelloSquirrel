@@ -34,6 +34,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 ![](AND101-Project-1.gif)
+
 link if needed: https://imgur.com/a/1fyL410 
 
 GIF created with **Screen to Gif and Imgur**
