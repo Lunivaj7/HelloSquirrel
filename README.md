@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
+<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 <img src='https://imgur.com/a/1fyL410 ' title='Video Demo' width='' alt='Video Demo' />
 Link: https://imgur.com/a/1fyL410 
 
